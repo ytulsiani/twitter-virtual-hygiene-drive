@@ -1,5 +1,5 @@
 .addbutton {
-	background-color:#12b3cf;
+	background-color:#6db0bb;
 	/*-moz-border-radius:28px;
 	-webkit-border-radius:28px;
 	border-radius:28px;*/
@@ -73,7 +73,7 @@ html, body {
   display: grid;
   grid-template-rows: 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
-	background-color:#12b3cf;
+	background-color:#6db0bb;
 	font-family: sans-serif;
 	margin-top: 20px;
 }
@@ -82,7 +82,7 @@ html, body {
   display: grid;
   grid-template-rows: 1fr;
   grid-template-columns: 1fr;
-	background-color:#12b3cf;
+	background-color:#6db0bb;
 	font-family: sans-serif;
 	margin-top: 20px;
 }
@@ -94,7 +94,7 @@ html, body {
 	font-weight: 500;
   font-size: 20px;
   color: white;
-	background-color:#12b3cf;
+	background-color:#6db0bb;
 	margin-top: -3px;
 
 
