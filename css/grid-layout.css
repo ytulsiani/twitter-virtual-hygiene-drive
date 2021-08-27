@@ -8,7 +8,7 @@
   --itemunitretailfont: sans-serif;
   --retailfont: arial;
   --ourpricefont: Oswald;
-  --ourpricecolor: #12b4cf;
+  --ourpricecolor: #6db0bb;
   --thankyoufont: sans-serif;
 }
 
@@ -142,7 +142,7 @@ html, body {
   font-weight: 600;
   font-size: 1.5em;
   font-family: var(--itemtitlefont);
-  color: #12b4cf;
+  color: #6db0bb;
 }
 
 .Item-Img {
