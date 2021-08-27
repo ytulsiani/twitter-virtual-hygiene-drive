@@ -2,29 +2,29 @@ var itemList = [
   {
     "quantity": 0, 
     "image": "img/toothbrush.jpg",
-    "itemName": "Toothbrush",
-    "servingUnits": "case of (144)",
-    "ourPrice": 10,
-    "retailPrice": 120,
-    "unitsReceipt": "case",
-    "nameReceipt": "Toothbrushes"
+    "itemName": "Hangers",
+    "servingUnits": "set of 10",
+    "ourPrice": 8,
+    "retailPrice": 20,
+    "unitsReceipt": "set",
+    "nameReceipt": "Hangers"
   },
   {
     "quantity": 0, 
     "image": "img/mask.png",
-    "itemName": "Masks",
+    "itemName": "Dryer Sheets",
     "servingUnits": "case of (20)",
-    "ourPrice": 15,
-    "retailPrice": 120,
+    "ourPrice": 11,
+    "retailPrice": 20,
     "unitsReceipt": "case",
-    "nameReceipt": "Masks"
+    "nameReceipt": "Dryer Sheets"
   },
   {
     "quantity": 0, 
     "image": "img/soap.jpg",
     "itemName": "Soap",
     "servingUnits": "case of (72)",
-    "ourPrice": 20,
+    "ourPrice": 16,
     "retailPrice": 120,
     "unitsReceipt": "case",
     "nameReceipt": "Soap"
@@ -32,12 +32,12 @@ var itemList = [
   {
     "quantity": 0, 
     "image": "img/tissue.jpg",
-    "itemName": "Tissue",
+    "itemName": "Hygiene Kit",
     "servingUnits": "case of (150)",
-    "ourPrice": 25,
+    "ourPrice": 19,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": "Tissues"
+    "nameReceipt": "Hygiene Kit"
   },
   {
     "quantity": 0, 
