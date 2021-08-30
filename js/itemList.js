@@ -6,7 +6,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 8,
     "retailPrice": 8,
-    "unitsReceipt": "set",
+    "unitsReceipt": "",
     "nameReceipt": "Hangers"
   },
   {
@@ -16,7 +16,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 11,
     "retailPrice": 11,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Dryer Sheets"
   },
   {
@@ -26,7 +26,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 16,
     "retailPrice": 16,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Shampoo"
   },
   {
@@ -36,7 +36,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 19,
     "retailPrice": 19,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Hygiene Kit"
   },
   {
@@ -46,7 +46,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 22,
     "retailPrice": 22,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Laundry Detergent"
   },
   {
@@ -56,7 +56,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 28,
     "retailPrice": 28,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Underwear and Socks"
   },
   {
@@ -66,7 +66,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 36,
     "retailPrice": 36,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Robe and Cap"
   },
    {
@@ -76,7 +76,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 44,
     "retailPrice": 44,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Towels"
   },
    {
@@ -106,7 +106,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 300,
     "retailPrice": 300,
-    "unitsReceipt": "Champion",
+    "unitsReceipt": "",
     "nameReceipt": "Champion"
   },
     {
@@ -116,7 +116,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 500,
     "retailPrice": 500,
-    "unitsReceipt": "Ambassador",
+    "unitsReceipt": "",
     "nameReceipt": "Ambassador"
   }
 ]
