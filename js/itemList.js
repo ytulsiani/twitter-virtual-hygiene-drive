@@ -62,12 +62,12 @@ var itemList = [
   {
     "quantity": 0, 
     "image": "img/toothpaste.jpg",
-    "itemName": "Shower Robe/Cap",
+    "itemName": "Shower Cap/Robe",
     "servingUnits": "case of (288)",
     "ourPrice": 36,
     "retailPrice": 36,
     "unitsReceipt": "case",
-    "nameReceipt": "Shower Robe/Cap"
+    "nameReceipt": "Shower Cap/Robe"
   },
    {
     "quantity": 0, 
@@ -83,7 +83,7 @@ var itemList = [
     "quantity": 0, 
     "image": "img/clothes.png",
     "itemName": "Men's Clothing",
-    "servingUnits": "One Men's Outfit",
+    "servingUnits": "One outfit",
     "ourPrice": 54,
     "retailPrice": 54,
     "unitsReceipt": "case",
@@ -91,9 +91,9 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/clothing.jpg",
+    "image": "img/clothes.jpg",
     "itemName": "Women's Clothing",
-    "servingUnits": "case of (36)",
+    "servingUnits": "One outfit",
     "ourPrice": 58,
     "retailPrice": 58,
     "unitsReceipt": "case",
