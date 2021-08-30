@@ -67,7 +67,7 @@ var itemList = [
     "ourPrice": 36,
     "retailPrice": 36,
     "unitsReceipt": "case",
-    "nameReceipt": "Robe and Shower Cap"
+    "nameReceipt": "Robe and Cap"
   },
    {
     "quantity": 0, 
@@ -77,7 +77,7 @@ var itemList = [
     "ourPrice": 44,
     "retailPrice": 44,
     "unitsReceipt": "case",
-    "nameReceipt": "Towels and Washcloths"
+    "nameReceipt": "Towels"
   },
    {
     "quantity": 0, 
@@ -87,7 +87,7 @@ var itemList = [
     "ourPrice": 54,
     "retailPrice": 54,
     "unitsReceipt": "case",
-    "nameReceipt": "Men's Clothing"
+    "nameReceipt": "Men's Clothes"
   },
   {
     "quantity": 0, 
@@ -97,7 +97,7 @@ var itemList = [
     "ourPrice": 58,
     "retailPrice": 58,
     "unitsReceipt": "case",
-    "nameReceipt": "Women's Clothing"
+    "nameReceipt": "Women's Clothes"
   },
     {
     "quantity": 0, 
@@ -107,7 +107,7 @@ var itemList = [
     "ourPrice": 300,
     "retailPrice": 300,
     "unitsReceipt": "case",
-    "nameReceipt": "Hygiene Hub Champion"
+    "nameReceipt": "Champion"
   },
     {
     "quantity": 0, 
@@ -117,7 +117,7 @@ var itemList = [
     "ourPrice": 500,
     "retailPrice": 500,
     "unitsReceipt": "set",
-    "nameReceipt": "St. Anthony's Ambassador"
+    "nameReceipt": "Ambassador"
   }
 ]
 
