@@ -102,7 +102,7 @@ var itemList = [
     {
     "quantity": 0, 
     "image": "img/razor.jpg",
-    "itemName": "Champion of The Hygiene Hub",
+    "itemName": "Hygiene Hub Champion",
     "servingUnits": "single",
     "ourPrice": 300,
     "retailPrice": 300,
@@ -112,7 +112,7 @@ var itemList = [
     {
     "quantity": 0, 
     "image": "img/clothes.png",
-    "itemName": "Super Patron",
+    "itemName": "St. Anthony's Ambassador",
     "servingUnits": "one set",
     "ourPrice": 500,
     "retailPrice": 500,
