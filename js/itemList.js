@@ -67,7 +67,7 @@ var itemList = [
     "ourPrice": 36,
     "retailPrice": 36,
     "unitsReceipt": "case",
-    "nameReceipt": "Shower Cap/Robe"
+    "nameReceipt": "Robe and Shower Cap"
   },
    {
     "quantity": 0, 
