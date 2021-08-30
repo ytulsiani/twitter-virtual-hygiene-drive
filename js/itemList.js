@@ -31,7 +31,7 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/tissue.jpg",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Kit.png",
     "itemName": "Hygiene Kit",
     "servingUnits": "",
     "ourPrice": 19,
