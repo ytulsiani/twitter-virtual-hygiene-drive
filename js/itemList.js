@@ -1,7 +1,7 @@
 var itemList = [
   {
     "quantity": 0, 
-    "image": "img/toothbrush.jpg",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Hangers2.png",
     "itemName": "Hangers",
     "servingUnits": "",
     "ourPrice": 8,
@@ -11,7 +11,7 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/mask.png",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Dryer-Sheets.png",
     "itemName": "Dryer Sheets",
     "servingUnits": "",
     "ourPrice": 11,
@@ -41,7 +41,7 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/wipes.jpg",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Detergent-copy.png",
     "itemName": "Laundry Detergent",
     "servingUnits": "",
     "ourPrice": 22,
@@ -51,7 +51,7 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/chapstick.jpg",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Underwear-Socks.png",
     "itemName": "Underwear and Socks",
     "servingUnits": "",
     "ourPrice": 28,
@@ -61,7 +61,7 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/toothpaste.jpg",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Robe.png",
     "itemName": "Shower Cap/Robe",
     "servingUnits": "",
     "ourPrice": 36,
