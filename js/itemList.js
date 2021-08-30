@@ -22,12 +22,12 @@ var itemList = [
   {
     "quantity": 0, 
     "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Shampoo.png",
-    "itemName": "Shampoo/Soap",
+    "itemName": "Shampoo",
     "servingUnits": "",
     "ourPrice": 16,
     "retailPrice": 16,
     "unitsReceipt": "case",
-    "nameReceipt": "Shampoo/Soap"
+    "nameReceipt": "Shampoo"
   },
   {
     "quantity": 0, 
