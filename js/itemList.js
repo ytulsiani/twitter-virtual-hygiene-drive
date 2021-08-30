@@ -47,7 +47,7 @@ var itemList = [
     "ourPrice": 22,
     "retailPrice": 22,
     "unitsReceipt": "",
-    "nameReceipt": "Laundry Detergent"
+    "nameReceipt": "Detergent"
   },
   {
     "quantity": 0, 
@@ -57,7 +57,7 @@ var itemList = [
     "ourPrice": 28,
     "retailPrice": 28,
     "unitsReceipt": "",
-    "nameReceipt": "Underwear and Socks"
+    "nameReceipt": "Underwear"
   },
   {
     "quantity": 0, 
@@ -67,7 +67,7 @@ var itemList = [
     "ourPrice": 36,
     "retailPrice": 36,
     "unitsReceipt": "",
-    "nameReceipt": "Robe and Cap"
+    "nameReceipt": "Robe"
   },
    {
     "quantity": 0, 
