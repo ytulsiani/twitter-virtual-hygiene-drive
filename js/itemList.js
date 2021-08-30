@@ -107,7 +107,7 @@ var itemList = [
     "ourPrice": 300,
     "retailPrice": 300,
     "unitsReceipt": "case",
-    "nameReceipt": "Champion ofthe Hygiene Hub"
+    "nameReceipt": "Hygiene Hub Champion"
   },
     {
     "quantity": 0, 
@@ -117,7 +117,7 @@ var itemList = [
     "ourPrice": 500,
     "retailPrice": 500,
     "unitsReceipt": "set",
-    "nameReceipt": "Super Patron"
+    "nameReceipt": "St. Anthony's Ambassador"
   }
 ]
 
