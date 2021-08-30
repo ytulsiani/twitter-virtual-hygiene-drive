@@ -101,7 +101,7 @@ var itemList = [
   },
     {
     "quantity": 0, 
-    "image": "img/razor.jpg",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Logo_SA_YouTube_Watermark.png",
     "itemName": "Hygiene Hub Champion",
     "servingUnits": "",
     "ourPrice": 300,
@@ -111,7 +111,7 @@ var itemList = [
   },
     {
     "quantity": 0, 
-    "image": "img/clothes.png",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Logo_SA_YouTube.png",
     "itemName": "St. Anthony's Ambassador",
     "servingUnits": "",
     "ourPrice": 500,
