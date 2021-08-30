@@ -21,7 +21,7 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/shampoo.jpg",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Shampoo.png",
     "itemName": "Shampoo/Soap",
     "servingUnits": "",
     "ourPrice": 16,
@@ -57,12 +57,12 @@ var itemList = [
     "ourPrice": 28,
     "retailPrice": 28,
     "unitsReceipt": "case",
-    "nameReceipt": "Underwear/Socks"
+    "nameReceipt": "Underwear and Socks"
   },
   {
     "quantity": 0, 
     "image": "https://www.stanthonysf.org/app/uploads/2021/08/Hygiene-Hub-Robe.png",
-    "itemName": "Shower Cap/Robe",
+    "itemName": "Robe and Shower Cap",
     "servingUnits": "",
     "ourPrice": 36,
     "retailPrice": 36,
@@ -72,12 +72,12 @@ var itemList = [
    {
     "quantity": 0, 
     "image": "img/towels.jpg",
-    "itemName": "Towels",
+    "itemName": "Towels and Washcloths",
     "servingUnits": "",
     "ourPrice": 44,
     "retailPrice": 44,
     "unitsReceipt": "case",
-    "nameReceipt": "Towels"
+    "nameReceipt": "Towels and Washcloths"
   },
    {
     "quantity": 0, 
