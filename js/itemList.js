@@ -91,7 +91,7 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/clothes.png",
+    "image": "https://www.stanthonysf.org/app/uploads/2021/08/w_clothes.png",
     "itemName": "Women's Clothing",
     "servingUnits": "",
     "ourPrice": 58,
