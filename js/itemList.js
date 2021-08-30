@@ -86,7 +86,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 54,
     "retailPrice": 54,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Men's Clothes"
   },
   {
@@ -96,7 +96,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 58,
     "retailPrice": 58,
-    "unitsReceipt": "case",
+    "unitsReceipt": "",
     "nameReceipt": "Women's Clothes"
   },
     {
@@ -106,7 +106,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 300,
     "retailPrice": 300,
-    "unitsReceipt": "case",
+    "unitsReceipt": "Champion",
     "nameReceipt": "Champion"
   },
     {
@@ -116,7 +116,7 @@ var itemList = [
     "servingUnits": "",
     "ourPrice": 500,
     "retailPrice": 500,
-    "unitsReceipt": "set",
+    "unitsReceipt": "Ambassador",
     "nameReceipt": "Ambassador"
   }
 ]
