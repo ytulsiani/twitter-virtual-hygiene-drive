@@ -91,7 +91,7 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/clothes.jpg",
+    "image": "img/clothes.png",
     "itemName": "Women's Clothing",
     "servingUnits": "One outfit",
     "ourPrice": 58,
